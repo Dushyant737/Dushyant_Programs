@@ -1,0 +1,6 @@
+California,100000
+New York,250000
+California,900000
+Washington,300000
+New York,50000
+Washington,300000
